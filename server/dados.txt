@@ -1,0 +1,22 @@
+criar package json 
+npm init -y
+
+Adcionar typescript no projeto
+npm i typescript -D 
+
+criar setap do typescript
+npx tsc -init
+
+framework
+npm i fastify
+npm i @fastify/cors
+
+automatiza execucao do typescript
+npm i tsx -D
+
+
+npm i prisma -D
+npm i @prisma/client
+
+banco sqllite
+npx prisma init --datasource-provider sqlite
