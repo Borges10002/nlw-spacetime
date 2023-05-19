@@ -1,0 +1,9 @@
+create proje with next.js
+ https://nextjs.org/docs/app/api-reference/create-next-app#why-use-create-next-app
+ npx create-next-app@latest web --use-npm
+
+ biblioteca eslintrc 
+  npm i @rocketseat/eslint-config -D
+
+biblioteca plugin-tailwindcss
+  npm i prettier-plugin-tailwindcss -D

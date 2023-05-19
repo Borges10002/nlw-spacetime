@@ -1,0 +1,13 @@
+
+
+biblioteca nativewind
+https://www.nativewind.dev/quick-starts/expo
+    yarn add nativewind
+    yarn add --dev tailwindcss
+    npx tailwindcss init
+
+ biblioteca eslintrc 
+  npm i @rocketseat/eslint-config -D
+
+biblioteca plugin-tailwindcss
+  npm i prettier-plugin-tailwindcss -D
