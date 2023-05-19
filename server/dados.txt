@@ -3,6 +3,7 @@ npm init -y
 
 Adcionar typescript no projeto
 npm i typescript -D 
+npm i tsx -D
 
 criar setap do typescript
 npx tsc -init
@@ -20,3 +21,17 @@ npm i @prisma/client
 
 banco sqllite
 npx prisma init --datasource-provider sqlite
+
+migrate
+  npx prisma migrate dev
+
+painel do prisma para trabalhar com banco de dados 
+   npx prisma studio
+
+bibioteca eslint para padronizacao de projeto
+npm install eslint -D
+npm i @rocketseat/eslint-config -D
+
+
+
+
