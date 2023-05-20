@@ -7,3 +7,6 @@ create proje with next.js
 
 biblioteca plugin-tailwindcss
   npm i prettier-plugin-tailwindcss -D
+
+biblioteca de icons 
+  npm i lucide-react
