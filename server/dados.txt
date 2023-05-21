@@ -32,6 +32,10 @@ bibioteca eslint para padronizacao de projeto
 npm install eslint -D
 npm i @rocketseat/eslint-config -D
 
+bibioteca validacao de requisicao 
+  npm i zod
 
+bibioteca de cors tecnica de seguranca do backend
+  npm i @fastify/cors
 
 
