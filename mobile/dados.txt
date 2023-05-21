@@ -11,3 +11,11 @@ https://www.nativewind.dev/quick-starts/expo
 
 biblioteca plugin-tailwindcss
   npm i prettier-plugin-tailwindcss -D
+
+biblioteca de fonts 
+ npx expo install @expo-google-fonts/roboto @expo-google-fonts/bai-jamjuree expo-font
+
+biblioteca svg
+https://github.com/kristerkari/react-native-svg-transformer
+expo install react-native-svg
+yarn add --dev react-native-svg-transformer
