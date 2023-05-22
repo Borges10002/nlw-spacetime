@@ -38,4 +38,13 @@ bibioteca validacao de requisicao
 bibioteca de cors tecnica de seguranca do backend
   npm i @fastify/cors
 
+bibioteca para backend entender .ENV   
+  npm i dotenv -D
+  npm i --save-dev @types/node
+
+bibioteca para fazer requisicao HTTP 
+  npm i axios
+
+bibioteca de JWT 
+ npm i @fastify/jwt
 

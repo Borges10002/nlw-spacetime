@@ -10,3 +10,9 @@ biblioteca plugin-tailwindcss
 
 biblioteca de icons 
   npm i lucide-react
+
+biblioteca axios para lidar com rotas 
+  npm i axios
+
+biblioteca para decotificar o token jwt 
+  npm i jwt-decode

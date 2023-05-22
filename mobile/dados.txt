@@ -1,4 +1,7 @@
 
+executar expo 
+npx expo start --clear
+
 
 biblioteca nativewind
 https://www.nativewind.dev/quick-starts/expo
@@ -19,3 +22,15 @@ biblioteca svg
 https://github.com/kristerkari/react-native-svg-transformer
 expo install react-native-svg
 yarn add --dev react-native-svg-transformer
+
+
+biblioteca de autenticacao 
+https://docs.expo.dev/versions/latest/sdk/auth-session/?utm_source=google&utm_medium=cpc&utm_content=performancemax&gclid=CjwKCAjwgqejBhBAEiwAuWHioIKjbxmHftB4E_-AQdyIS03g3jqtHUSfaVg49_NxO3LWCZflF8bnmhoC9XkQAvD_BwE
+  npx expo install expo-auth-session expo-crypto
+
+https://docs.expo.dev/versions/latest/sdk/securestore/?utm_source=google&utm_medium=cpc&utm_content=performancemax&gclid=CjwKCAjwgqejBhBAEiwAuWHioIvSx_h2C8Q_fv8GWbXDauhJusfKkFi1pGx_W2ntWIoCJzjpltylJBoCp_0QAvD_BwE
+  npx expo install expo-secure-store
+
+biblioteca de rotas expo 
+https://expo.github.io/router/docs/
+npx expo install expo-router react-native-safe-area-context react-native-screens expo-linking expo-constants expo-status-bar react-native-gesture-handler
