@@ -13,9 +13,9 @@ import {
 } from "@expo-google-fonts/roboto";
 import { BaiJamjuree_700Bold } from "@expo-google-fonts/bai-jamjuree";
 
-import blurBg from "./src/assets/bg-blur.png";
-import Stripes from "./src/assets/stripes.svg";
-import NlwLogo from "./src/assets/nlw-spacetime-logo.svg";
+import blurBg from "../src/assets/bg-blur.png";
+import Stripes from "../src/assets/stripes.svg";
+import NlwLogo from "../src/assets/nlw-spacetime-logo.svg";
 
 import { api } from "../src/lib/api";
 
