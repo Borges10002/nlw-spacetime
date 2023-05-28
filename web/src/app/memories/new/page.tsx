@@ -21,9 +21,28 @@ export default function NewMemories() {
             <Camera className="h-4 w-4" />
             Anexar mídia
           </label>
-          <label htmlFor="isPublic" className="flex items-center "></label>
+          <label
+            htmlFor="isPublic"
+            className="flex items-center gap-1.5 text-sm text-gray-200 hover:text-gray-100"
+          ></label>
+          <input
+            type="checkbox"
+            name="isPublic"
+            id="isPublic"
+            value="true"
+            className="h-4 w-4 rounded border-gray-400 bg-gray-700 text-purple-500"
+          />
+          Tornar memória pública
         </div>
-        <input type="file" id="media" className="invisible" />
+        <input type="file" id="media" className="invisible h-0 w-0" />
+
+        <textarea
+          name="content"
+          spellCheck={false}
+          className="w-full flex-1 resize-none rounded border-0 
+          bg-transparent p-0 text-lg leading-relaxed text-gray-200 placeholder:text-gray-400 focus:right-0"
+          placeholder="Fique livre para adicionar fotos, videos e relatos sobre essa experiência que você quer lembrar para sempre"
+        />
       </form>
     </div>
   );

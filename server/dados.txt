@@ -48,3 +48,6 @@ bibioteca para fazer requisicao HTTP
 bibioteca de JWT 
  npm i @fastify/jwt
 
+bibioteca para lidar com imagem 
+  npm i @fastify/multipart
+  npm i @fastify/static  --faz que uma pasta do backend fica public
