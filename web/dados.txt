@@ -17,5 +17,8 @@ biblioteca axios para lidar com rotas
 
 biblioteca para decotificar o token jwt 
   npm i jwt-decode
-  
+
+biblioteca para pegar o cooke  
+  npm i js-cookie
+  npm i --save-dev @types/js-cookie
 

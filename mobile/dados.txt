@@ -34,3 +34,10 @@ https://docs.expo.dev/versions/latest/sdk/securestore/?utm_source=google&utm_med
 biblioteca de rotas expo 
 https://expo.github.io/router/docs/
 npx expo install expo-router react-native-safe-area-context react-native-screens expo-linking expo-constants expo-status-bar react-native-gesture-handler
+
+biblioteca para lidar com imagens
+https://docs.expo.dev/versions/latest/sdk/imagepicker/?utm_source=google&utm_medium=cpc&utm_content=performancemax&gclid=Cj0KCQjw98ujBhCgARIsAD7QeAhPkD5JAW9JQX4XY-2t5Pejfk95kiGlweq4_-62KCXe6IUttnK9JtIaAnbSEALw_wcB
+npx expo install expo-image-picker
+
+biblioteca para manipulacao de datas
+  npm i dayjs
