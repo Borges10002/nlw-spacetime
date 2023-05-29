@@ -7,7 +7,8 @@ Projeto: 🚀 Concluído 🚀
 </h4>
 <p align="center">
  <a href="#-objetivo">Objetivo</a> •
- <a href="#-telas">Telas</a> •
+ <a href="#-telas">Telas Web</a> •
+ <a href="#-telas">Telas Mobile</a> •
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
 </p>
@@ -48,7 +49,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
     <td align="center">Novo</td>    
   </tr>
   <tr>
-    <td><img src="https://github.com/Borges10002/nlw-spacetime/blob/main/web/src/assets/imgs/menu.png" width=900 height=400></td>
+    <td><img src="https://github.com/Borges10002/nlw-spacetime/blob/main/web/src/assets/imgs/menu.png" width=1000 height=400></td>
     <td><img src="https://github.com/Borges10002/nlw-spacetime/blob/main/web/src/assets/imgs/new.png" width=900 height=400></td>
   </tr>
  </table>
