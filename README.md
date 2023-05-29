@@ -40,7 +40,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 </ol>
 <p/>
 
-## 📱 Telas
+## 📱 Telas Web
 
 <table align="center" display=flex>
   <tr>
@@ -50,9 +50,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
   <tr>
     <td><img src="https://github.com/Borges10002/nlw-spacetime/blob/main/web/src/assets/imgs/menu.png" width=900 height=400></td>
     <td><img src="https://github.com/Borges10002/nlw-spacetime/blob/main/web/src/assets/imgs/new.png" width=900 height=400></td>
-
   </tr>
+ </table>
 
+## 📱 Tela Mobile
+
+<table align="center" display=flex>
   <tr>
     <td align="center">Menu</td>
     <td align="center">Novo</td>
@@ -61,6 +64,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
   <tr>
     <td><img src="https://github.com/Borges10002/nlw-spacetime/blob/main/web/src/assets/imgs/menu-mobile.jpg" width=250 height=400></td>
     <td><img src="https://github.com/Borges10002/nlw-spacetime/blob/main/web/src/assets/imgs/new.png" width=250 height=400></td>
-
   </tr>
  </table>
