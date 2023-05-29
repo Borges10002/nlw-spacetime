@@ -48,8 +48,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
     <td align="center">Novo</td>    
   </tr>
   <tr>
-    <td><img src="https://github.com/Borges10002/nlw-spacetime/blob/main/web/src/assets/imgs/menu.png" width=650 height=400></td>
-    <td><img src="https://github.com/Borges10002/nlw-spacetime/blob/main/web/src/assets/imgs/new.png" width=650 height=400></td>
+    <td><img src="https://github.com/Borges10002/nlw-spacetime/blob/main/web/src/assets/imgs/menu.png" width=700 height=400></td>
+    <td><img src="https://github.com/Borges10002/nlw-spacetime/blob/main/web/src/assets/imgs/new.png" width=700 height=400></td>
 
   </tr>
 
